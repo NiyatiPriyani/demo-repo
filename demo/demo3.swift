@@ -9,7 +9,7 @@ import SwiftUI
 
 struct demo3: View {
     var body: some View {
-        Text("This is the second view file that has to commited.")
+        Text("This is the second view file that has to commited.hehehe")
     }
 }
 
