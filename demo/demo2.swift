@@ -9,7 +9,7 @@ import SwiftUI
 
 struct demo2: View {
     var body: some View {
-        Text("This is a view that has to commited.")
+        Text("This is the first view file that has to commited.")
     }
 }
 
